@@ -7,3 +7,4 @@ Problem 2
 https://github.com/Nnasy/AML2022-mid/blob/main/AML_mid_Q2.ipynb
 
 Problem 3
+https://github.com/Nnasy/AML2022-mid/blob/main/AML_mid_Q3.ipynb
